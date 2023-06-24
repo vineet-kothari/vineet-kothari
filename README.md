@@ -20,6 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to a Self-Hosted Cypress Dashboard on Ubuntu](https://medium.com/cypress-corner/a-step-by-step-guide-to-a-self-hosted-cypress-dashboard-on-ubuntu-1b36ac23c553?source=rss-7a467c515664------2)
+- [Dynamic tests using CSV &amp; Webpack Preprocessor in Cypress](https://medium.com/cypress-corner/dynamic-tests-from-csv-in-cypress-using-webpack-preprocessor-7a5bc66a12b1?source=rss-7a467c515664------2)
+- [Fine-tuning baseUrl in Cypress: Diverse Approaches for Effective Configuration](https://medium.com/cypress-corner/different-ways-to-set-up-baseurl-in-cypress-f661268365fb?source=rss-7a467c515664------2)
+- [Getting started with Cypress](https://medium.com/cypress-corner/getting-started-with-cypress-353851f62877?source=rss-7a467c515664------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
