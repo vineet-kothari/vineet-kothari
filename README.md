@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cypress Nuggets: Visual Debugging with .highlight&lpar;&rpar;](https://medium.com/cypress-corner/cypress-nuggets-visual-debugging-with-highlight-4563d824d52f?source=rss-7a467c515664------2)
 - [Some hidden gems &amp; lesser-known features of Cypress](https://medium.com/cypress-corner/some-hidden-gems-lesser-known-features-of-cypress-e9f841e4dd7c?source=rss-7a467c515664------2)
 - [A Step-by-Step Guide to a Self-Hosted Cypress Dashboard on Ubuntu](https://medium.com/cypress-corner/a-step-by-step-guide-to-a-self-hosted-cypress-dashboard-on-ubuntu-1b36ac23c553?source=rss-7a467c515664------2)
 - [Dynamic tests using CSV &amp; Webpack Preprocessor in Cypress](https://medium.com/cypress-corner/dynamic-tests-from-csv-in-cypress-using-webpack-preprocessor-7a5bc66a12b1?source=rss-7a467c515664------2)
