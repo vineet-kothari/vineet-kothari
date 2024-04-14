@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Kothari</h1>
-<h3 align="center">I am a passionate Software Engineer</h3>
+<h3 align="center">I am a passionate Software Engineer, Cypress Ambassador & BrowserStack Champion</h3>
 
 
 <p align="left"> <a href="https://twitter.com/vineetkothari" target="blank"><img src="https://img.shields.io/twitter/follow/vineetkothari?logo=twitter&style=for-the-badge" alt="vineetkothari" /></a> </p>
